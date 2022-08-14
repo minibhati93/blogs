@@ -1,4 +1,4 @@
-## One-liner Solutions to 6 Coding Questions
+## One-liner Solutions to 6 Coding Questions in JavaScript
 
 Coding questions are an integral part of any JavaScript interview.
 
