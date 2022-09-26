@@ -1,4 +1,4 @@
-## 🤿 Introduction to Dependency Injection
+## Introduction to Dependency Injection
 
 Let me start with an analogy explaining what exactly DI is!
 
